@@ -17,3 +17,12 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Resultados
+-![image](https://github.com/Aric-Mirray-Capistran-Tenorio/rutas-6J-0442/assets/143548368/d3cfa5f5-892a-49d2-b1bc-dfea051b91a5)
+-![image](https://github.com/Aric-Mirray-Capistran-Tenorio/rutas-6J-0442/assets/143548368/477a658e-b498-4ac2-a223-1d61df160395)
+-![image](https://github.com/Aric-Mirray-Capistran-Tenorio/rutas-6J-0442/assets/143548368/99ee0a3c-56b2-4339-81e5-7c4314a6d090)
+
+
+
+
